@@ -19,9 +19,9 @@
   - Current: Applicant is in the process of paying the instalments, i.e. the tenure of the loan is not yet completed. These candidates are not labelled as 'defaulted'.
   - Charged-off: Applicant has not paid the instalments in due time for a long period of time, i.e. he/she has defaulted on the loan 
 
--**Approach**:
+- **Approach**:
 
-![image](https://user-images.githubusercontent.com/95560901/148832482-d3fed59d-cbbb-4222-9e2c-e7887124d29b.png)
+  ![image](https://user-images.githubusercontent.com/95560901/148832482-d3fed59d-cbbb-4222-9e2c-e7887124d29b.png)
 
 <!-- You don't have to answer all the questions - just the ones relevant to your project. -->
 
