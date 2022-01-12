@@ -27,8 +27,8 @@
 
 ## Conclusions
 - Univariate analysis was quite useful to get familiar with data and understand its properties. It also helped us to identify outliers in the variables.
-- We didn’t find segmented univariate analysis that useful.
-- Bivariate analysis was the most insightful for identifying driver variables that are indicators of default.
+- The target variable in this analysis was a categorical variable. Hence, segmented univariate analysis and bivariate analysis contained essentially the same information.
+- However, bivariate analysis was the most insightful for identifying driver variables that are indicators of default.
 - We identified following 13 driver variables which are strong indicator of default: grade, sub_grade, pub_rec_bankruptcies, annual_inc, dti, int_rate, last_pymnt_amnt, loan_amnt, revol_bal, revol_util, total_pymnt, total_rec_late_fee
 
 
